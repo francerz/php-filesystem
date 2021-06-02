@@ -1,6 +1,6 @@
 <?php
 
-use Francerz\FileSystem\Path;
+use Francerz\FileSystem\Utils\Path;
 use PHPUnit\Framework\TestCase;
 
 class PathTest extends TestCase

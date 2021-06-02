@@ -1,6 +1,6 @@
 <?php
 
-namespace Francerz\FileSystem;
+namespace Francerz\FileSystem\Utils;
 
 abstract class Path
 {

@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Francerz\\FileSystem\\": "src"
+            "Francerz\\FileSystem\\Utils\\": "src"
         }
     },
     "require-dev": {
